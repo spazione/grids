@@ -3,219 +3,219 @@
         background: none
     }
     #cols, .cols {
-        background: url(/assets/img/grids/cols720.png);
+        background: url(/grids/assets/img/grids/cols720.png);
         background-size: 100%
     }
 }
 
 @media (min-width: 320px) {
     #lineheight, .lineheight {
-        background: url(/assets/img/grids/lineheight-4px.png);
+        background: url(/grids/assets/img/grids/lineheight-4px.png);
         /* background-position-y: 4px; */
         /* background-size: 100%; */
         background-position-y: 1em;
         background-size: 20.0625em;
     }
     #focus, .focus {
-        background: url(/assets/img/grids/new/focus-1440.png);
+        background: url(/grids/assets/img/grids/new/focus-1440.png);
         background-size: 100%
     }
     #h-hexagones, .h-hexagones {
-        background: url(/assets/img/grids/new/h-hexagones-1440.png);
+        background: url(/grids/assets/img/grids/new/h-hexagones-1440.png);
         background-size: 100%
     }
     #v-hexagones, .v-hexagones {
-        background: url(/assets/img/grids/new/v-hexagones-1440.png);
+        background: url(/grids/assets/img/grids/new/v-hexagones-1440.png);
         background-size: 100%
     }
 }
 
 @media (min-width: 360px) {
     #lineheight, .lineheight {
-        background: url(/assets/img/grids/lineheight-9px.png);
+        background: url(/grids/assets/img/grids/lineheight-9px.png);
         /* background-position-y: 9px; */
         /* background-size: 100%; */
         background-position-y: 1em;
         background-size: 40.125em;
     }
     #focus, .focus {
-        background: url(/assets/img/grids/new/focus-1440.png);
+        background: url(/grids/assets/img/grids/new/focus-1440.png);
         background-size: 100%
     }
     #h-hexagones, .h-hexagones {
-        background: url(/assets/img/grids/new/h-hexagones-1440.png);
+        background: url(/grids/assets/img/grids/new/h-hexagones-1440.png);
         background-size: 100%
     }
     #v-hexagones, .v-hexagones {
-        background: url(/assets/img/grids/new/v-hexagones-1440.png);
+        background: url(/grids/assets/img/grids/new/v-hexagones-1440.png);
         background-size: 100%
     }
 }
 
 @media (min-width: 480px) {
     #lineheight, .lineheight {
-        background: url(/assets/img/grids/lineheight-12px.png);
+        background: url(/grids/assets/img/grids/lineheight-12px.png);
         /* background-position-y: 12px; */
         /* background-size: 100%; */
         background-position-y: 1em;
         background-size: 40.125em;
     }
     #focus, .focus {
-        background: url(/assets/img/grids/new/focus-1440.png);
+        background: url(/grids/assets/img/grids/new/focus-1440.png);
         background-size: 100%
     }
     #h-hexagones, .h-hexagones {
-        background: url(/assets/img/grids/new/h-hexagones-1440.png);
+        background: url(/grids/assets/img/grids/new/h-hexagones-1440.png);
         background-size: 100%
     }
     #v-hexagones, .v-hexagones {
-        background: url(/assets/img/grids/new/v-hexagones-1440.png);
+        background: url(/grids/assets/img/grids/new/v-hexagones-1440.png);
         background-size: 100%
     }
 }
 
 @media (min-width: 640px) {
     #lineheight, .lineheight {
-        background: url(/assets/img/grids/lineheight-8px.png);
+        background: url(/grids/assets/img/grids/lineheight-8px.png);
         /* background-position-y: 16px; */
         /* background-size: 100%; */
         background-position-y: 1em;
         background-size: 40.125em;
     }
     #focus, .focus {
-        background: url(/assets/img/grids/new/focus-1440.png);
+        background: url(/grids/assets/img/grids/new/focus-1440.png);
         background-size: 100%
     }
     #h-hexagones, .h-hexagones {
-        background: url(/assets/img/grids/new/h-hexagones-1440.png);
+        background: url(/grids/assets/img/grids/new/h-hexagones-1440.png);
         background-size: 100%
     }
     #v-hexagones, .v-hexagones {
-        background: url(/assets/img/grids/new/v-hexagones-1440.png);
+        background: url(/grids/assets/img/grids/new/v-hexagones-1440.png);
         background-size: 100%
     }
 }
 
 @media (min-width: 640px) {
     #cols, .cols {
-        background: url(/assets/img/grids/cols720.png);
+        background: url(/grids/assets/img/grids/cols720.png);
         background-size: 100%
     }
 }
 
 @media (min-width: 720px) {
     #lineheight, .lineheight {
-        background: url(/assets/img/grids/lineheight-9px.png);
+        background: url(/grids/assets/img/grids/lineheight-9px.png);
         /* background-position-y: 18px; */
         /* background-size: 100%; */
         background-position-y: 1em;
         background-size: 40.125em;
     }
     #focus, .focus {
-        background: url(/assets/img/grids/new/focus-1440.png);
+        background: url(/grids/assets/img/grids/new/focus-1440.png);
         background-size: 100%
     }
     #h-hexagones, .h-hexagones {
-        background: url(/assets/img/grids/new/h-hexagones-1440.png);
+        background: url(/grids/assets/img/grids/new/h-hexagones-1440.png);
         background-size: 100%
     }
     #v-hexagones, .v-hexagones {
-        background: url(/assets/img/grids/new/v-hexagones-1440.png);
+        background: url(/grids/assets/img/grids/new/v-hexagones-1440.png);
         background-size: 100%
     }
 }
 
 @media (min-width: 960px) {
     #lineheight, .lineheight {
-        background: url(/assets/img/grids/lineheight-24px.png);
+        background: url(/grids/assets/img/grids/lineheight-24px.png);
         /* background-position-y: 24px; */
         /* background-size: 100%; */
         background-position-y: 1em;
         background-size: 80.25em;
     }
     #focus, .focus {
-        background: url(/assets/img/grids/new/focus-1440.png);
+        background: url(/grids/assets/img/grids/new/focus-1440.png);
         background-size: 100%
     }
     #h-hexagones, .h-hexagones {
-        background: url(/assets/img/grids/new/h-hexagones-1440.png);
+        background: url(/grids/assets/img/grids/new/h-hexagones-1440.png);
         background-size: 100%
     }
     #v-hexagones, .v-hexagones {
-        background: url(/assets/img/grids/new/v-hexagones-1440.png);
+        background: url(/grids/assets/img/grids/new/v-hexagones-1440.png);
         background-size: 100%
     }
 }
 
 @media (min-width: 960px) {
     #cols, .cols {
-        background: url(/assets/img/grids/cols1440.png);
+        background: url(/grids/assets/img/grids/cols1440.png);
         background-size: 100%
     }
 }
 
 @media (min-width: 1280px) {
     #lineheight, .lineheight {
-        background: url(/assets/img/grids/lineheight-16px.png);
+        background: url(/grids/assets/img/grids/lineheight-16px.png);
         /* background-position-y: 16px; */
         /* background-size: 100%; */
         background-position-y: 1em;
         background-size: 80.25em;
     }
     #focus, .focus {
-        background: url(/assets/img/grids/new/focus-1440.png);
+        background: url(/grids/assets/img/grids/new/focus-1440.png);
         background-size: 100%
     }
     #h-hexagones, .h-hexagones {
-        background: url(/assets/img/grids/new/h-hexagones-1440.png);
+        background: url(/grids/assets/img/grids/new/h-hexagones-1440.png);
         background-size: 100%
     }
     #v-hexagones, .v-hexagones {
-        background: url(/assets/img/grids/new/v-hexagones-1440.png);
+        background: url(/grids/assets/img/grids/new/v-hexagones-1440.png);
         background-size: 100%
     }
 }
 
 @media (min-width: 1440px) {
     #lineheight, .lineheight {
-        background: url(/assets/img/grids/lineheight-18px.png);
+        background: url(/grids/assets/img/grids/lineheight-18px.png);
         background-position-y: 1em;
         background-size: 80.25em;
         /* background-position-y: 18px; */
         /* background-size: 100%; */
     }
     #focus, .focus {
-        background: url(/assets/img/grids/new/focus-1440.png);
+        background: url(/grids/assets/img/grids/new/focus-1440.png);
         background-size: 100%
     }
     #h-hexagones, .h-hexagones {
-        background: url(/assets/img/grids/new/h-hexagones-1440.png);
+        background: url(/grids/assets/img/grids/new/h-hexagones-1440.png);
         background-size: 100%
     }
     #v-hexagones, .v-hexagones {
-        background: url(/assets/img/grids/new/v-hexagones-1440.png);
+        background: url(/grids/assets/img/grids/new/v-hexagones-1440.png);
         background-size: 100%
     }
 }
 
 @media (min-width: 1920px) {
     #lineheight, .lineheight {
-        background: url(/assets/img/grids/lineheight-24px.png);
+        background: url(/grids/assets/img/grids/lineheight-24px.png);
         background-position-y: 1em;
         background-size: 80.25em;
         /* background-position-y: 24px; */
         /* background-size: 100%; */
     }
     #focus, .focus {
-        background: url(/assets/img/grids/new/focus-1440.png);
+        background: url(/grids/assets/img/grids/new/focus-1440.png);
         background-size: 100%
     }
     #h-hexagones, .h-hexagones {
-        background: url(/assets/img/grids/new/h-hexagones-1440.png);
+        background: url(/grids/assets/img/grids/new/h-hexagones-1440.png);
         background-size: 100%
     }
     #v-hexagones, .v-hexagones {
-        background: url(/assets/img/grids/new/v-hexagones-1440.png);
+        background: url(/grids/assets/img/grids/new/v-hexagones-1440.png);
         background-size: 100%
     }
 }
