@@ -1,7 +1,7 @@
 
 $( document ).ready(function() {
 
-   $('head').append('<link rel="stylesheet" href="http://grids.danieldipietro.com/assets/css/grids.css" type="text/css" />');
+   $('head').append('<link rel="stylesheet" href="https://spazione.github.io/grids/assets/css/grids.css" type="text/css" />');
 
 
    $("body").append("\
