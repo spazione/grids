@@ -48,7 +48,7 @@ $( document ).ready(function() {
 // ADD Cols
    $('#cols-add').click(function() {
       var docHeight = $(document).height();
-      $("body").append("<div id='cols' class='container'></div>");
+      $("body").append("<div id='cols' class='container'><div class='row'></div></div>");
       $("#cols")
          .height(docHeight)
          .css({'opacity' : 1, 'position': 'absolute', 'top': 0, 'left': 0, 'right': 0, 'margin-left': 'auto', 'margin-right': 'auto', 'z-index': 5000 });
@@ -64,7 +64,7 @@ $( document ).ready(function() {
 // ADD Focus
    $('#focus-add').click(function() {
       var docHeight = $(document).height();
-      $("body").append("<div id='focus' class='container'></div>");
+      $("body").append("<div id='focus' class='container'><div class='row'></div></div>");
       $("#focus")
          .height(docHeight)
          .css({'opacity' : 1, 'position': 'absolute', 'top': 0, 'left': 0, 'right': 0, 'margin-left': 'auto', 'margin-right': 'auto', 'z-index': 5000 });
@@ -80,7 +80,7 @@ $( document ).ready(function() {
 // ADD H-Hexagons
    $('#h-hexagones-add').click(function() {
       var docHeight = $(document).height();
-      $("body").append("<div id='h-hexagones' class='container'></div>");
+      $("body").append("<div id='h-hexagones' class='container'><div class='row'></div></div>");
       $("#h-hexagones")
          .height(docHeight)
          .css({'opacity' : 1, 'position': 'absolute', 'top': 0, 'left': 0, 'right': 0, 'margin-left': 'auto', 'margin-right': 'auto', 'z-index': 5000 });
@@ -96,7 +96,7 @@ $( document ).ready(function() {
 // ADD V-Hexagons
    $('#v-hexagones-add').click(function() {
       var docHeight = $(document).height();
-      $("body").append("<div id='v-hexagones' class='container'></div>");
+      $("body").append("<div id='v-hexagones' class='container'><div class='row'></div></div>");
       $("#v-hexagones")
          .height(docHeight)
          .css({'opacity' : 1, 'position': 'absolute', 'top': 0, 'left': 0, 'right': 0, 'margin-left': 'auto', 'margin-right': 'auto', 'z-index': 5000 });
