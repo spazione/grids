@@ -8,6 +8,9 @@ $( document ).ready(function() {
 \
       <p style='font-family:arial; font-size:11px !important; display:block; position:fixed;z-index:6000;right:1em;bottom:.5em; font-size:1em; opacity:0.5; text-trasform:uppercase;'>\
 \
+         <a id='golden-add' class='add btn btn-xs btn-primary'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> golden On</a>\
+         <a id='golden-remove' class='remove btn btn-xs btn-primary'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> golden Off</a>\
+\
          <a id='lineheight-add' class='add'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> Lineheight On</a>\
          <a id='lineheight-remove' class='remove'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> Lineheight Off</a>\
 \
@@ -24,7 +27,20 @@ $( document ).ready(function() {
          <a id='v-hexagones-remove' class='remove'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> V-Hexagons Off</a></p>\
 ");
 
+// GOLDEN
+// =============================================
 
+// ADD Lineheight
+   $('#golden-add').click(function() {
+      var docHeight = $(document).height();
+      $("body").append("<div id='golden'></div>");
+      $("#golden")
+         .height(docHeight)
+         .css({'opacity' : 0.4, 'position': 'absolute', 'top': 0, 'left': 0, 'width': '100%', 'z-index': 5000 });
+   });
+
+// REMOVE Lineheight
+   $('#golden-remove').click(function() {$("#golden").remove(); });
 
 // LINEHEIGHT
 // =============================================
