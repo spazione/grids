@@ -22,7 +22,7 @@
     }
     #golden, .golden {
         background: url(/grids/assets/img/grids/golden-grid.png);
-        background-size: 100%
+        background-size: 100% 100%;
     }
     #h-hexagones, .h-hexagones {
         background: url(/grids/assets/img/grids/new/h-hexagones-1440.png);
