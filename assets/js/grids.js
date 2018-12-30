@@ -11,8 +11,8 @@ $( document ).ready(function() {
          <a id='golden-add' class='add btn btn-xs btn-primary'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> golden On</a>\
          <a id='golden-remove' class='remove btn btn-xs btn-primary'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> golden Off</a>\
 \
-         <a id='lineheight-add' class='add'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> Lineheight On</a>\
-         <a id='lineheight-remove' class='remove'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> Lineheight Off</a>\
+         <a id='lineheight-add' class='add btn btn-xs btn-primary'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> Lineheight On</a>\
+         <a id='lineheight-remove' class='remove btn btn-xs btn-primary'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> Lineheight Off</a>\
 \
          <a id='cols-add' class='add btn btn-xs btn-primary'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> Cols On</a>\
          <a id='cols-remove' class='remove btn btn-xs btn-primary'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> Cols Off</a>\
