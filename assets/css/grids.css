@@ -21,7 +21,7 @@
         background-size: 100%
     }
     #golden, .golden {
-        background: url(/assets/img/grids/golden-grid.png);
+        background: url(/grids/assets/img/grids/golden-grid.png);
         background-size: 100%
     }
     #h-hexagones, .h-hexagones {
