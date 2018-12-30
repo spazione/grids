@@ -14,17 +14,17 @@ $( document ).ready(function() {
          <a id='lineheight-add' class='add'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> Lineheight On</a>\
          <a id='lineheight-remove' class='remove'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> Lineheight Off</a>\
 \
-         <a id='cols-add' class='add'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> Cols On</a>\
-         <a id='cols-remove' class='remove'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> Cols Off</a>\
+         <a id='cols-add' class='add btn btn-xs btn-primary'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> Cols On</a>\
+         <a id='cols-remove' class='remove btn btn-xs btn-primary'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> Cols Off</a>\
 \
-         <a id='focus-add' class='add'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> Focus On</a>\
-         <a id='focus-remove' class='remove'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> Focus Off</a>\
+         <a id='focus-add' class='add btn btn-xs btn-primary'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> Focus On</a>\
+         <a id='focus-remove' class='remove btn btn-xs btn-primary'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> Focus Off</a>\
 \
-         <a id='h-hexagones-add' class='add'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> H-Hexagons On</a>\
-         <a id='h-hexagones-remove' class='remove'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> H-Hexagons Off</a>\
+         <a id='h-hexagones-add' class='add btn btn-xs btn-primary'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> H-Hexagons On</a>\
+         <a id='h-hexagones-remove' class='remove btn btn-xs btn-primary'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> H-Hexagons Off</a>\
 \
-         <a id='v-hexagones-add' class='add'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> V-Hexagons On</a>\
-         <a id='v-hexagones-remove' class='remove'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> V-Hexagons Off</a></p>\
+         <a id='v-hexagones-add' class='add btn btn-xs btn-primary'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> V-Hexagons On</a>\
+         <a id='v-hexagones-remove' class='remove btn btn-xs btn-primary'><span class='glyphicon glyphicon-off' aria-hidden='true'></span> V-Hexagons Off</a></p>\
 ");
 
 // GOLDEN
