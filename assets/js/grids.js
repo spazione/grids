@@ -36,7 +36,7 @@ $( document ).ready(function() {
       $("body").append("<div id='golden'></div>");
       $("#golden")
          .height(docHeight)
-         .css({'opacity' : 0.4, 'position': 'absolute', 'top': 0, 'left': 0, 'width': '100%', 'z-index': 5000 });
+         .css({'opacity' : 1, 'position': 'absolute', 'top': 0, 'left': 0, 'width': '100%', 'z-index': 5000 });
    });
 
 // REMOVE Lineheight
