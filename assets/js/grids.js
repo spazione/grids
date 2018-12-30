@@ -32,7 +32,7 @@ $( document ).ready(function() {
 
 // ADD Lineheight
    $('#golden-add').click(function() {
-      var docHeight = $(document).height();
+      var docHeight = $(window).height();
       $("body").append("<div id='golden'></div>");
       $("#golden")
          .height(docHeight)
