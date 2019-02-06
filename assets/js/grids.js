@@ -32,9 +32,12 @@ $( document ).ready(function() {
 
 // ADD Lineheight
    $('#golden-add').click(function() {
+      var docHeight = $(document).height();
       $("body").append("<div id='golden'></div>");
       $("#golden")
-         .css({'height' : '100vh','opacity' : 1, 'position': 'fixed', 'top': 0, 'left': 0, 'width': '100%', 'z-index': 5000 });
+         .height(docHeight)
+         // .css({'height' : '100vh','opacity' : 1, 'position': 'fixed', 'top': 0, 'left': 0, 'width': '100%', 'z-index': 5000 });
+         .css({'opacity' : 0.4, 'position': 'absolute', 'top': 0, 'left': 0, 'width': '100%', 'z-index': 5000 });
    });
 
 // REMOVE Lineheight
